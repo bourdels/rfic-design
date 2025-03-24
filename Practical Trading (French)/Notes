@@ -1,0 +1,17 @@
+Text and documents are in french. For english version see other directory
+
+objectives : Learning main simulation procedures for RF design dedicated to building blocks.
+  SIMULATION OBJECTIVES
+  - SP simulations (Matching, Noise analysis, ...)
+  - HP simualtions (IIP3, IPC1dB)
+  - HB-AC simulation (Mixer frequency response)
+  - HB-SP and HB-Noise for Mixer NF
+  - Phase noise simulations
+  DESIGN OBJECTIVES
+  - Matching
+  - LNA Design (inductive degeneration)
+  - Mixer Design
+  - LO Design (LC - VCO)
+  - PA Design
+
+Technolgie : (AMS 0.35 um). The training focuses on tools. Other PDK could be used.
