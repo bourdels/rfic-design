@@ -15,7 +15,7 @@ CONTAIN
     - Active Mixer Design Exemple
     - LC-VCO and Mixer Study
     - Class A and B PA study
-  - Cadence Training
+- Cadence Training
     - Matching
     - LNA
     - Mixer
