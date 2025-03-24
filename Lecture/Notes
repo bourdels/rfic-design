@@ -1,0 +1,11 @@
+This directory contain the RFIC lecture from Sylvain BOURDEL, Grenoble INP.
+The agenda is :
+  Introduction
+  Basics for RFIC (Matching, Noise, Linearity, Technology)
+  LNA Design
+  Mixer Design
+  VCO Design
+  PA Design
+  RX architectures
+  Packaging
+  
