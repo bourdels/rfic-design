@@ -1,6 +1,9 @@
 Text and documents are in french. For english version see other directory
 
-objectives : Learning main simulation procedures for RF design dedicated to building blocks.
+5 trainings availables with "how to" in the file (.pdf). The excel sheet (.xlsx) gives the theoritical calaculus. 
+
+objectives : Learning main simulation procedures for RF building blocks design.
+
   SIMULATION OBJECTIVES
   - SP simulations (Matching, Noise analysis, ...)
   - HP simualtions (IIP3, IPC1dB)
