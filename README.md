@@ -1,7 +1,7 @@
 # rfic-design
 Lecture on Radio Frequency Integrated Circuit Design
-CONTAIN 
-  Lecture
+- CONTAIN 
+- Lecture
     RF Basics
     LNA Design
     Mixer Design
