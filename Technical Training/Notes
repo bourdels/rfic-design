@@ -1,1 +1,11 @@
-This technichal training is elaborted based on AMS 0.35 um Process Design Kit.
+This technical training is elaborated based on AMS 0.35 um Process Design Kit.
+
+It contains 5 exercises with the answers at the end.
+
+Each exercise focuses on one part of the lecture :
+
+  - RF Basis
+  - LNA Design
+  - Mixer Design
+  - VCO Design
+  - PA Design
