@@ -1,12 +1,12 @@
-Text and documents are in french. For english version see other directory
+Text and documents are in French. For English version see other directory
 
-5 trainings availables with "how to" in the file (.pdf). The excel sheet (.xlsx) gives the theoritical calaculus. 
+5 trainings available with "how to" in the file (.pdf). The excel sheet (.xlsx) gives the theoretical caliculus. 
 
-objectives : Learning main simulation procedures for RF building blocks design.
+objectives: Learning main simulation procedures for RF building blocks design.
 
   SIMULATION OBJECTIVES
   - SP simulations (Matching, Noise analysis, ...)
-  - HP simualtions (IIP3, IPC1dB)
+  - HP simulations (IIP3, IPC1dB)
   - HB-AC simulation (Mixer frequency response)
   - HB-SP and HB-Noise for Mixer NF
   - Phase noise simulations
@@ -17,4 +17,4 @@ objectives : Learning main simulation procedures for RF building blocks design.
   - LO Design (LC - VCO)
   - PA Design
 
-Technolgie : (AMS 0.35 um). The training focuses on tools. Other PDK could be used.
+Technologies : (AMS 0.35 um). The training focuses on tools. Other PDK could be used.
