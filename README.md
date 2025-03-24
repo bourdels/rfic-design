@@ -1,5 +1,6 @@
-# rfic-design
-Lecture on Radio Frequency Integrated Circuit Design
+# rfic-design - Lecture on Radio Frequency Integrated Circuit Design
+
+Learn the RFIC basics. How to design LNA, VCO, Mixers and PA. Train yourself with technical trainings. Discover how to simulate Noise, Linearity, SP and other RF caracteristcs with CADENCE. Share, teache others, and cite me ;-) ...
 
 CONTAIN 
 - Lecture
