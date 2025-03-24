@@ -2,8 +2,8 @@
 Lecture on Radio Frequency Integrated Circuit Design
 - CONTAIN 
 - Lecture
-    RF Basics
-    LNA Design
+    - RF Basics
+    - LNA Design
     Mixer Design
     VCO Design
     PA Design
